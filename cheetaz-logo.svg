@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F3E7BE"/>
+      <stop offset="50%" stop-color="#C7A35B"/>
+      <stop offset="100%" stop-color="#8D6B2D"/>
+    </linearGradient>
+  </defs>
+  <!-- Realistic cheetah silhouette (simplified) -->
+  <path d="M10 120 C 40 100, 60 80, 90 80 C 115 80, 130 95, 145 100 C 155 103, 165 102, 180 100 C 168 105, 156 113, 150 125 C 145 135, 138 142, 128 146 C 118 150, 100 150, 82 148 C 70 147, 60 140, 50 135 C 38 128, 26 125, 10 123 Z" fill="url(#gold)"/>
+  <circle cx="145" cy="100" r="4" fill="#1B1B1B"/>
+</svg>
+
+
